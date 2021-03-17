@@ -1,0 +1,12 @@
+C:\Users\pinar\source\repos\homework-4\ExamSystem.DataAccess\bin\Debug\netcoreapp3.1\ExamSystem.Entities.dll
+C:\Users\pinar\source\repos\homework-4\ExamSystem.DataAccess\obj\Debug\netcoreapp3.1\ExamSystem.DataAccess.csprojAssemblyReference.cache
+C:\Users\pinar\source\repos\homework-4\ExamSystem.DataAccess\obj\Debug\netcoreapp3.1\ExamSystem.DataAccess.AssemblyInfoInputs.cache
+C:\Users\pinar\source\repos\homework-4\ExamSystem.DataAccess\obj\Debug\netcoreapp3.1\ExamSystem.DataAccess.AssemblyInfo.cs
+C:\Users\pinar\source\repos\homework-4\ExamSystem.DataAccess\bin\Debug\netcoreapp3.1\ExamSystem.DataAccess.deps.json
+C:\Users\pinar\source\repos\homework-4\ExamSystem.DataAccess\bin\Debug\netcoreapp3.1\ExamSystem.DataAccess.dll
+C:\Users\pinar\source\repos\homework-4\ExamSystem.DataAccess\bin\Debug\netcoreapp3.1\ExamSystem.DataAccess.pdb
+C:\Users\pinar\source\repos\homework-4\ExamSystem.DataAccess\bin\Debug\netcoreapp3.1\ExamSystem.Entities.pdb
+C:\Users\pinar\source\repos\homework-4\ExamSystem.DataAccess\obj\Debug\netcoreapp3.1\ExamSystem.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\pinar\source\repos\homework-4\ExamSystem.DataAccess\obj\Debug\netcoreapp3.1\ExamSystem.DataAccess.csproj.CopyComplete
+C:\Users\pinar\source\repos\homework-4\ExamSystem.DataAccess\obj\Debug\netcoreapp3.1\ExamSystem.DataAccess.dll
+C:\Users\pinar\source\repos\homework-4\ExamSystem.DataAccess\obj\Debug\netcoreapp3.1\ExamSystem.DataAccess.pdb

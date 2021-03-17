@@ -1,0 +1,4 @@
+C:\Users\pinar\source\repos\homework-4\ExamSystem.Services\obj\Debug\netcoreapp3.1\ExamSystem.Services.csprojAssemblyReference.cache
+C:\Users\pinar\source\repos\homework-4\ExamSystem.Services\obj\Debug\netcoreapp3.1\ExamSystem.Services.AssemblyInfoInputs.cache
+C:\Users\pinar\source\repos\homework-4\ExamSystem.Services\obj\Debug\netcoreapp3.1\ExamSystem.Services.AssemblyInfo.cs
+C:\Users\pinar\source\repos\homework-4\ExamSystem.Services\obj\Debug\netcoreapp3.1\ExamSystem.Services.csproj.CoreCompileInputs.cache

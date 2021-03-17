@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WorkerService.Core\WorkerService.Core.csproj" />
+    <ProjectReference Include="..\WorkerService.Entities\WorkerService.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,6 @@
+C:\Users\pinar\source\repos\homework-4\WoerkerService.Business\bin\Debug\netcoreapp3.1\WorkerService.Core.dll
+C:\Users\pinar\source\repos\homework-4\WoerkerService.Business\bin\Debug\netcoreapp3.1\WorkerService.DataAccess.dll
+C:\Users\pinar\source\repos\homework-4\WoerkerService.Business\bin\Debug\netcoreapp3.1\WorkerService.Entities.dll
+C:\Users\pinar\source\repos\homework-4\WoerkerService.Business\obj\Debug\netcoreapp3.1\WorkerService.Business.csprojAssemblyReference.cache
+C:\Users\pinar\source\repos\homework-4\WoerkerService.Business\obj\Debug\netcoreapp3.1\WorkerService.Business.AssemblyInfoInputs.cache
+C:\Users\pinar\source\repos\homework-4\WoerkerService.Business\obj\Debug\netcoreapp3.1\WorkerService.Business.AssemblyInfo.cs

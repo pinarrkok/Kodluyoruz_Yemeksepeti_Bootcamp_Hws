@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Logging.Business\Logging.Business.csproj" />
+    <ProjectReference Include="..\Logging.DataAccess\Logging.DataAccess.csproj" />
+    <ProjectReference Include="..\Logging.Entities\Logging.Entities.csproj" />
+  </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineExaminationSystem.DataAccess\OnlineExaminationSystem.DataAccess.csproj" />
+    <ProjectReference Include="..\OnlineExaminationSystem.Entities\OnlineExaminationSystem.Entities.csproj" />
+    <ProjectReference Include="..\Versioning\Versioning.csproj" />
+  </ItemGroup>
+
+
+</Project>

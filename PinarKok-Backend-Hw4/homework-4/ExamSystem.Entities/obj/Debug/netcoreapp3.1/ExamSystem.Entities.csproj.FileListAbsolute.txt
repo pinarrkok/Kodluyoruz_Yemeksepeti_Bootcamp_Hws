@@ -1,0 +1,9 @@
+C:\Users\pinar\source\repos\homework-4\ExamSystem.Entities\bin\Debug\netcoreapp3.1\ExamSystem.Entities.deps.json
+C:\Users\pinar\source\repos\homework-4\ExamSystem.Entities\bin\Debug\netcoreapp3.1\ExamSystem.Entities.dll
+C:\Users\pinar\source\repos\homework-4\ExamSystem.Entities\bin\Debug\netcoreapp3.1\ExamSystem.Entities.pdb
+C:\Users\pinar\source\repos\homework-4\ExamSystem.Entities\obj\Debug\netcoreapp3.1\ExamSystem.Entities.csprojAssemblyReference.cache
+C:\Users\pinar\source\repos\homework-4\ExamSystem.Entities\obj\Debug\netcoreapp3.1\ExamSystem.Entities.AssemblyInfoInputs.cache
+C:\Users\pinar\source\repos\homework-4\ExamSystem.Entities\obj\Debug\netcoreapp3.1\ExamSystem.Entities.AssemblyInfo.cs
+C:\Users\pinar\source\repos\homework-4\ExamSystem.Entities\obj\Debug\netcoreapp3.1\ExamSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\pinar\source\repos\homework-4\ExamSystem.Entities\obj\Debug\netcoreapp3.1\ExamSystem.Entities.dll
+C:\Users\pinar\source\repos\homework-4\ExamSystem.Entities\obj\Debug\netcoreapp3.1\ExamSystem.Entities.pdb
